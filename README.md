@@ -1,1 +1,1 @@
-# Demo: https://github.trinhngocminh.com/donate
+# Demo: https://cdn.trinhngocminh.com/donate
